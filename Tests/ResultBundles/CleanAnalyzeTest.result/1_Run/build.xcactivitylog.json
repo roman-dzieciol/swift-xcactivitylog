@@ -1,0 +1,62 @@
+{
+  "magic" : 809913427,
+  "root" : {
+    "collectMetrics" : 0,
+    "commandDetailDesc" : "",
+    "isQuiet" : 0,
+    "localizedResultString" : "Clean succeeded",
+    "location" : {
+
+    },
+    "messages" : [
+      {
+        "additionalDescription" : "",
+        "categoryIdent" : "Notice",
+        "location" : {
+          "characterRange" : [
+            -1,
+            0
+          ],
+          "documentURLString" : "",
+          "endingColumnNumber" : -1,
+          "endingLineNumber" : -1,
+          "locationEncoding" : 0,
+          "startingColumnNumber" : -1,
+          "startingLineNumber" : -1,
+          "timestamp" : 0
+        },
+        "rangeInSectionText" : [
+          -1,
+          0
+        ],
+        "secondaryLocations" : [
+
+        ],
+        "severity" : 0,
+        "shortTitle" : "",
+        "submessages" : [
+
+        ],
+        "timeEmitted" : 574550354,
+        "title" : "Using new build system",
+        "type" : ""
+      }
+    ],
+    "recorder" : "Xcode.IDEActivityLogDomainType.BuildLog",
+    "sectionType" : 0,
+    "signature" : "Cleaning workspace iOSResultBundleApp with scheme iOSResultBundleApp",
+    "subsections" : [
+
+    ],
+    "subtitle" : "",
+    "text" : "note: Using new build system",
+    "timeStartedRecording" : 574550354.21438205,
+    "timeStoppedRecording" : 574550354.30143595,
+    "title" : "Cleaning workspace iOSResultBundleApp with scheme iOSResultBundleApp",
+    "uniqueIdentifier" : "AE35E37F-87FA-428B-8FCB-15BEB6329AD6",
+    "wasCancelled" : 0,
+    "wasFetchedFromCache" : 0,
+    "xcbuildSignature" : ""
+  },
+  "version" : 9
+}
