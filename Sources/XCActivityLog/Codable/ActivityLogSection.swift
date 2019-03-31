@@ -27,7 +27,6 @@ public class ActivityLogSection: Codable {
     public let uniqueIdentifier: String
     public let localizedResultString: String
     public let xcbuildSignature: String // hexString
-    public let collectMetrics: Int
 }
 
 public class ActivityLogUnitTestSection: Codable {
@@ -50,7 +49,6 @@ public class ActivityLogUnitTestSection: Codable {
     public let uniqueIdentifier: String
     public let localizedResultString: String
     public let xcbuildSignature: String // hexString
-    public let collectMetrics: Int
 
     public let testsPassedString: String
     public let durationString: String

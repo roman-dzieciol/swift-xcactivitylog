@@ -69,7 +69,9 @@ extension SLFData {
             fatalError()
         }
 
-        let value: T = data[index..<index+size].withUnsafeBytes { $0.pointee }
+        let value: T = data[index..<index+size].withUnsafeBytes { (ptr: UnsafeRawBufferPointer) -> T in
+            return ptr.baseAddress!.bindMemory(to: T.self, capacity: 1).pointee
+        }
         index += size
         return value
     }
@@ -170,12 +172,16 @@ extension SLFData {
 
     internal func decodeFloat() throws -> Float {
         let data = try decodeHexBytes(length: 4, magic: ByteMarker.float)
-        return data.withUnsafeBytes { $0.pointee }
+        return data.withUnsafeBytes { (ptr: UnsafeRawBufferPointer) -> Float in
+            return ptr.baseAddress!.bindMemory(to: Float.self, capacity: 1).pointee
+        }
     }
 
     internal func decodeDouble() throws -> Double {
         let data = try decodeHexBytes(length: 8, magic: ByteMarker.double)
-        return data.withUnsafeBytes { $0.pointee }
+        return data.withUnsafeBytes { (ptr: UnsafeRawBufferPointer) -> Double in
+            return ptr.baseAddress!.bindMemory(to: Double.self, capacity: 1).pointee
+        }
     }
 
     internal func decodeString() throws -> String {

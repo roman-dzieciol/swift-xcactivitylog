@@ -1,7 +1,6 @@
 {
   "magic" : 809913427,
   "root" : {
-    "collectMetrics" : 0,
     "commandDetailDesc" : "",
     "isQuiet" : 0,
     "localizedResultString" : "Clean succeeded",
@@ -37,7 +36,7 @@
         "submessages" : [
 
         ],
-        "timeEmitted" : 574550354,
+        "timeEmitted" : 575764672,
         "title" : "Using new build system",
         "type" : ""
       }
@@ -50,13 +49,13 @@
     ],
     "subtitle" : "",
     "text" : "note: Using new build system",
-    "timeStartedRecording" : 574550354.21438205,
-    "timeStoppedRecording" : 574550354.30143595,
+    "timeStartedRecording" : 575764672.61156905,
+    "timeStoppedRecording" : 575764672.72740901,
     "title" : "Cleaning workspace iOSResultBundleApp with scheme iOSResultBundleApp",
-    "uniqueIdentifier" : "AE35E37F-87FA-428B-8FCB-15BEB6329AD6",
+    "uniqueIdentifier" : "9ED2A9FF-F0B1-433F-BA51-F17A86776D41",
     "wasCancelled" : 0,
     "wasFetchedFromCache" : 0,
     "xcbuildSignature" : ""
   },
-  "version" : 9
+  "version" : 10
 }

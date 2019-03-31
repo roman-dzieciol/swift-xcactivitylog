@@ -35,7 +35,6 @@ extension _SLFDecoder: Decoder {
     }
 }
 
-@available(OSX 10.13, *)
 extension SLFDecoder {
 
     func decompress(data: Data) throws -> Data {
