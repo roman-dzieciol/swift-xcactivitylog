@@ -1,7 +1,6 @@
 import Foundation
 
 /// Decoder for XCActivityLog archives
-@available(OSX 10.13, *)
 final public class SLFDecoder {
 
     public init() {

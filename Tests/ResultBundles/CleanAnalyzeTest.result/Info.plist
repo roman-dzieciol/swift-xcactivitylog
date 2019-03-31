@@ -9,18 +9,26 @@
 			<dict>
 				<key>AnalyzerWarningCount</key>
 				<integer>0</integer>
+				<key>AnalyzerWarningSummaries</key>
+				<array/>
 				<key>ErrorCount</key>
 				<integer>0</integer>
+				<key>ErrorSummaries</key>
+				<array/>
 				<key>HasCodeCoverage</key>
 				<false/>
 				<key>Status</key>
 				<string>IDEActionResultStatus_NotRequested</string>
+				<key>TestFailureSummaries</key>
+				<array/>
 				<key>TestsCount</key>
 				<integer>0</integer>
 				<key>TestsFailedCount</key>
 				<integer>0</integer>
 				<key>WarningCount</key>
 				<integer>0</integer>
+				<key>WarningSummaries</key>
+				<array/>
 			</dict>
 			<key>BuildResult</key>
 			<dict>
@@ -50,7 +58,7 @@
 				<array/>
 			</dict>
 			<key>EndedTime</key>
-			<date>2019-03-17T21:19:36Z</date>
+			<date>2019-03-31T22:38:20Z</date>
 			<key>RunDestination</key>
 			<dict>
 				<key>LocalComputer</key>
@@ -96,13 +104,13 @@
 					<integer>16384</integer>
 				</dict>
 				<key>Name</key>
-				<string>iPhone XR</string>
+				<string>iPhone Xʀ</string>
 				<key>TargetArchitecture</key>
 				<string>x86_64</string>
 				<key>TargetDevice</key>
 				<dict>
 					<key>Identifier</key>
-					<string>4DD0FA04-5E8B-4E2A-8B20-E099D0CF5C03</string>
+					<string>1FFF0D53-B33E-4870-B087-5031D58D64D2</string>
 					<key>IsConcreteDevice</key>
 					<true/>
 					<key>ModelCode</key>
@@ -112,13 +120,13 @@
 					<key>ModelUTI</key>
 					<string>com.apple.iphone-xr-1</string>
 					<key>Name</key>
-					<string>iPhone XR</string>
+					<string>iPhone Xʀ</string>
 					<key>NativeArchitecture</key>
 					<string>x86_64</string>
 					<key>OperatingSystemVersion</key>
-					<string>12.1</string>
+					<string>12.2</string>
 					<key>OperatingSystemVersionWithBuildNumber</key>
-					<string>12.1 (16B91)</string>
+					<string>12.2 (16E226)</string>
 					<key>Platform</key>
 					<dict>
 						<key>Identifier</key>
@@ -130,13 +138,13 @@
 				<key>TargetSDK</key>
 				<dict>
 					<key>Identifier</key>
-					<string>iphonesimulator12.1</string>
+					<string>iphonesimulator12.2</string>
 					<key>IsInternal</key>
 					<false/>
 					<key>Name</key>
-					<string>Simulator - iOS 12.1</string>
+					<string>Simulator - iOS 12.2</string>
 					<key>OperatingSystemVersion</key>
-					<string>12.1</string>
+					<string>12.2</string>
 				</dict>
 			</dict>
 			<key>SchemeCommand</key>
@@ -144,7 +152,7 @@
 			<key>SchemeTask</key>
 			<string>Build</string>
 			<key>StartedTime</key>
-			<date>2019-03-17T21:19:14Z</date>
+			<date>2019-03-31T22:37:52Z</date>
 			<key>Title</key>
 			<string>Clean "iOSResultBundleApp"</string>
 		</dict>
@@ -153,18 +161,26 @@
 			<dict>
 				<key>AnalyzerWarningCount</key>
 				<integer>0</integer>
+				<key>AnalyzerWarningSummaries</key>
+				<array/>
 				<key>ErrorCount</key>
 				<integer>0</integer>
+				<key>ErrorSummaries</key>
+				<array/>
 				<key>HasCodeCoverage</key>
 				<false/>
 				<key>Status</key>
 				<string>IDEActionResultStatus_NotRequested</string>
+				<key>TestFailureSummaries</key>
+				<array/>
 				<key>TestsCount</key>
 				<integer>0</integer>
 				<key>TestsFailedCount</key>
 				<integer>0</integer>
 				<key>WarningCount</key>
 				<integer>0</integer>
+				<key>WarningSummaries</key>
+				<array/>
 			</dict>
 			<key>BuildResult</key>
 			<dict>
@@ -194,7 +210,7 @@
 				<array/>
 			</dict>
 			<key>EndedTime</key>
-			<date>2019-03-17T21:19:36Z</date>
+			<date>2019-03-31T22:38:20Z</date>
 			<key>RunDestination</key>
 			<dict>
 				<key>LocalComputer</key>
@@ -240,13 +256,13 @@
 					<integer>16384</integer>
 				</dict>
 				<key>Name</key>
-				<string>iPhone XR</string>
+				<string>iPhone Xʀ</string>
 				<key>TargetArchitecture</key>
 				<string>x86_64</string>
 				<key>TargetDevice</key>
 				<dict>
 					<key>Identifier</key>
-					<string>4DD0FA04-5E8B-4E2A-8B20-E099D0CF5C03</string>
+					<string>1FFF0D53-B33E-4870-B087-5031D58D64D2</string>
 					<key>IsConcreteDevice</key>
 					<true/>
 					<key>ModelCode</key>
@@ -256,13 +272,13 @@
 					<key>ModelUTI</key>
 					<string>com.apple.iphone-xr-1</string>
 					<key>Name</key>
-					<string>iPhone XR</string>
+					<string>iPhone Xʀ</string>
 					<key>NativeArchitecture</key>
 					<string>x86_64</string>
 					<key>OperatingSystemVersion</key>
-					<string>12.1</string>
+					<string>12.2</string>
 					<key>OperatingSystemVersionWithBuildNumber</key>
-					<string>12.1 (16B91)</string>
+					<string>12.2 (16E226)</string>
 					<key>Platform</key>
 					<dict>
 						<key>Identifier</key>
@@ -274,13 +290,13 @@
 				<key>TargetSDK</key>
 				<dict>
 					<key>Identifier</key>
-					<string>iphonesimulator12.1</string>
+					<string>iphonesimulator12.2</string>
 					<key>IsInternal</key>
 					<false/>
 					<key>Name</key>
-					<string>Simulator - iOS 12.1</string>
+					<string>Simulator - iOS 12.2</string>
 					<key>OperatingSystemVersion</key>
-					<string>12.1</string>
+					<string>12.2</string>
 				</dict>
 			</dict>
 			<key>SchemeCommand</key>
@@ -288,7 +304,7 @@
 			<key>SchemeTask</key>
 			<string>Build</string>
 			<key>StartedTime</key>
-			<date>2019-03-17T21:19:14Z</date>
+			<date>2019-03-31T22:37:52Z</date>
 			<key>Title</key>
 			<string>Build for Analyzing "iOSResultBundleApp"</string>
 		</dict>
@@ -311,6 +327,50 @@
 				<string>IDEActionResultStatus_Failed</string>
 				<key>TestFailureSummaries</key>
 				<array>
+					<dict>
+						<key>DocumentLocationData</key>
+						<data>
+						YnBsaXN0MDDUAQIDBAUGIiNYJHZl
+						cnNpb25YJG9iamVjdHNZJGFyY2hp
+						dmVyVCR0b3ASAAGGoKQHCBkaVSRu
+						dWxs2gkKCwwNDg8QERITFBQVFRYX
+						GBcUW2RvY3VtZW50VVJMXxAUc3Rh
+						cnRpbmdDb2x1bW5OdW1iZXJfEBJl
+						bmRpbmdDb2x1bW5OdW1iZXJfEBFj
+						aGFyYWN0ZXJSYW5nZUxlbl8QEGxv
+						Y2F0aW9uRW5jb2RpbmdWJGNsYXNz
+						XxAQZW5kaW5nTGluZU51bWJlcll0
+						aW1lc3RhbXBfEBJzdGFydGluZ0xp
+						bmVOdW1iZXJfEBFjaGFyYWN0ZXJS
+						YW5nZUxvY4ACE///////////EACA
+						AxAegABfEG1maWxlOi8vL1VzZXJz
+						L3JkL3IvWGNvZGVSZXN1bHRCdW5k
+						bGUvaU9TUmVzdWx0QnVuZGxlQXBw
+						L2lPU1Jlc3VsdEJ1bmRsZUFwcFRl
+						c3RzL2lPU1Jlc3VsdEJ1bmRsZUFw
+						cFRlc3RzLnN3aWZ00hscHR5aJGNs
+						YXNzbmFtZVgkY2xhc3Nlc18QF0RW
+						VFRleHREb2N1bWVudExvY2F0aW9u
+						ox8gIV8QF0RWVFRleHREb2N1bWVu
+						dExvY2F0aW9uXxATRFZURG9jdW1l
+						bnRMb2NhdGlvblhOU09iamVjdF8Q
+						D05TS2V5ZWRBcmNoaXZlctEkJVRy
+						b290gAEACAARABoAIwAtADIANwA8
+						AEIAVwBjAHoAjwCjALYAvQDQANoA
+						7wEDAQUBDgEQARIBFAEWAYYBiwGW
+						AZ8BuQG9AdcB7QH2AggCCwIQAAAA
+						AAAAAgEAAAAAAAAAJgAAAAAAAAAA
+						AAAAAAAAAhI=
+						</data>
+						<key>IssueType</key>
+						<string>Uncategorized</string>
+						<key>Message</key>
+						<string>XCTAssertTrue failed</string>
+						<key>Target</key>
+						<string>iOSResultBundleAppTests</string>
+						<key>TestCase</key>
+						<string>iOSResultBundleAppTests.testFail()</string>
+					</dict>
 					<dict>
 						<key>DocumentLocationData</key>
 						<data>
@@ -350,50 +410,10 @@
 						<string>Uncategorized</string>
 						<key>Message</key>
 						<string>failed - fail</string>
+						<key>Target</key>
+						<string>iOSResultBundleAppUITests</string>
 						<key>TestCase</key>
 						<string>iOSResultBundleAppUITests.testFail()</string>
-					</dict>
-					<dict>
-						<key>DocumentLocationData</key>
-						<data>
-						YnBsaXN0MDDUAQIDBAUGIiNYJHZl
-						cnNpb25YJG9iamVjdHNZJGFyY2hp
-						dmVyVCR0b3ASAAGGoKQHCBkaVSRu
-						dWxs2gkKCwwNDg8QERITFBQVFRYX
-						GBcUW2RvY3VtZW50VVJMXxAUc3Rh
-						cnRpbmdDb2x1bW5OdW1iZXJfEBJl
-						bmRpbmdDb2x1bW5OdW1iZXJfEBFj
-						aGFyYWN0ZXJSYW5nZUxlbl8QEGxv
-						Y2F0aW9uRW5jb2RpbmdWJGNsYXNz
-						XxAQZW5kaW5nTGluZU51bWJlcll0
-						aW1lc3RhbXBfEBJzdGFydGluZ0xp
-						bmVOdW1iZXJfEBFjaGFyYWN0ZXJS
-						YW5nZUxvY4ACE///////////EACA
-						AxAegABfEG1maWxlOi8vL1VzZXJz
-						L3JkL3IvWGNvZGVSZXN1bHRCdW5k
-						bGUvaU9TUmVzdWx0QnVuZGxlQXBw
-						L2lPU1Jlc3VsdEJ1bmRsZUFwcFRl
-						c3RzL2lPU1Jlc3VsdEJ1bmRsZUFw
-						cFRlc3RzLnN3aWZ00hscHR5aJGNs
-						YXNzbmFtZVgkY2xhc3Nlc18QF0RW
-						VFRleHREb2N1bWVudExvY2F0aW9u
-						ox8gIV8QF0RWVFRleHREb2N1bWVu
-						dExvY2F0aW9uXxATRFZURG9jdW1l
-						bnRMb2NhdGlvblhOU09iamVjdF8Q
-						D05TS2V5ZWRBcmNoaXZlctEkJVRy
-						b290gAEACAARABoAIwAtADIANwA8
-						AEIAVwBjAHoAjwCjALYAvQDQANoA
-						7wEDAQUBDgEQARIBFAEWAYYBiwGW
-						AZ8BuQG9AdcB7QH2AggCCwIQAAAA
-						AAAAAgEAAAAAAAAAJgAAAAAAAAAA
-						AAAAAAAAAhI=
-						</data>
-						<key>IssueType</key>
-						<string>Uncategorized</string>
-						<key>Message</key>
-						<string>XCTAssertTrue failed - </string>
-						<key>TestCase</key>
-						<string>iOSResultBundleAppTests.testFail()</string>
 					</dict>
 				</array>
 				<key>TestSummaryPath</key>
@@ -435,7 +455,7 @@
 				<array/>
 			</dict>
 			<key>EndedTime</key>
-			<date>2019-03-17T21:19:36Z</date>
+			<date>2019-03-31T22:38:20Z</date>
 			<key>RunDestination</key>
 			<dict>
 				<key>LocalComputer</key>
@@ -481,13 +501,13 @@
 					<integer>16384</integer>
 				</dict>
 				<key>Name</key>
-				<string>iPhone XR</string>
+				<string>iPhone Xʀ</string>
 				<key>TargetArchitecture</key>
 				<string>x86_64</string>
 				<key>TargetDevice</key>
 				<dict>
 					<key>Identifier</key>
-					<string>4DD0FA04-5E8B-4E2A-8B20-E099D0CF5C03</string>
+					<string>1FFF0D53-B33E-4870-B087-5031D58D64D2</string>
 					<key>IsConcreteDevice</key>
 					<true/>
 					<key>ModelCode</key>
@@ -497,13 +517,13 @@
 					<key>ModelUTI</key>
 					<string>com.apple.iphone-xr-1</string>
 					<key>Name</key>
-					<string>iPhone XR</string>
+					<string>iPhone Xʀ</string>
 					<key>NativeArchitecture</key>
 					<string>x86_64</string>
 					<key>OperatingSystemVersion</key>
-					<string>12.1</string>
+					<string>12.2</string>
 					<key>OperatingSystemVersionWithBuildNumber</key>
-					<string>12.1 (16B91)</string>
+					<string>12.2 (16E226)</string>
 					<key>Platform</key>
 					<dict>
 						<key>Identifier</key>
@@ -515,13 +535,13 @@
 				<key>TargetSDK</key>
 				<dict>
 					<key>Identifier</key>
-					<string>iphonesimulator12.1</string>
+					<string>iphonesimulator12.2</string>
 					<key>IsInternal</key>
 					<false/>
 					<key>Name</key>
-					<string>Simulator - iOS 12.1</string>
+					<string>Simulator - iOS 12.2</string>
 					<key>OperatingSystemVersion</key>
-					<string>12.1</string>
+					<string>12.2</string>
 				</dict>
 			</dict>
 			<key>SchemeCommand</key>
@@ -529,7 +549,7 @@
 			<key>SchemeTask</key>
 			<string>BuildAndAction</string>
 			<key>StartedTime</key>
-			<date>2019-03-17T21:19:17Z</date>
+			<date>2019-03-31T22:37:57Z</date>
 			<key>Title</key>
 			<string>Testing workspace iOSResultBundleApp with scheme iOSResultBundleApp</string>
 		</dict>
@@ -544,8 +564,49 @@
 	<string>1.2</string>
 	<key>Running</key>
 	<false/>
+	<key>SchemeIdentifier</key>
+	<dict>
+		<key>ContainerName</key>
+		<string>iOSResultBundleApp project</string>
+		<key>EntityName</key>
+		<string>iOSResultBundleApp</string>
+		<key>EntityType</key>
+		<string>scheme</string>
+		<key>SharedState</key>
+		<string>shared</string>
+	</dict>
 	<key>TestFailureSummaries</key>
 	<array>
+		<dict>
+			<key>DocumentLocationData</key>
+			<data>
+			YnBsaXN0MDDUAQIDBAUGIiNYJHZlcnNpb25YJG9iamVjdHNZJGFy
+			Y2hpdmVyVCR0b3ASAAGGoKQHCBkaVSRudWxs2gkKCwwNDg8QERIT
+			FBQVFRYXGBcUW2RvY3VtZW50VVJMXxAUc3RhcnRpbmdDb2x1bW5O
+			dW1iZXJfEBJlbmRpbmdDb2x1bW5OdW1iZXJfEBFjaGFyYWN0ZXJS
+			YW5nZUxlbl8QEGxvY2F0aW9uRW5jb2RpbmdWJGNsYXNzXxAQZW5k
+			aW5nTGluZU51bWJlcll0aW1lc3RhbXBfEBJzdGFydGluZ0xpbmVO
+			dW1iZXJfEBFjaGFyYWN0ZXJSYW5nZUxvY4ACE///////////EACA
+			AxAegABfEG1maWxlOi8vL1VzZXJzL3JkL3IvWGNvZGVSZXN1bHRC
+			dW5kbGUvaU9TUmVzdWx0QnVuZGxlQXBwL2lPU1Jlc3VsdEJ1bmRs
+			ZUFwcFRlc3RzL2lPU1Jlc3VsdEJ1bmRsZUFwcFRlc3RzLnN3aWZ0
+			0hscHR5aJGNsYXNzbmFtZVgkY2xhc3Nlc18QF0RWVFRleHREb2N1
+			bWVudExvY2F0aW9uox8gIV8QF0RWVFRleHREb2N1bWVudExvY2F0
+			aW9uXxATRFZURG9jdW1lbnRMb2NhdGlvblhOU09iamVjdF8QD05T
+			S2V5ZWRBcmNoaXZlctEkJVRyb290gAEACAARABoAIwAtADIANwA8
+			AEIAVwBjAHoAjwCjALYAvQDQANoA7wEDAQUBDgEQARIBFAEWAYYB
+			iwGWAZ8BuQG9AdcB7QH2AggCCwIQAAAAAAAAAgEAAAAAAAAAJgAA
+			AAAAAAAAAAAAAAAAAhI=
+			</data>
+			<key>IssueType</key>
+			<string>Uncategorized</string>
+			<key>Message</key>
+			<string>XCTAssertTrue failed</string>
+			<key>Target</key>
+			<string>iOSResultBundleAppTests</string>
+			<key>TestCase</key>
+			<string>iOSResultBundleAppTests.testFail()</string>
+		</dict>
 		<dict>
 			<key>DocumentLocationData</key>
 			<data>
@@ -571,40 +632,14 @@
 			<string>Uncategorized</string>
 			<key>Message</key>
 			<string>failed - fail</string>
+			<key>Target</key>
+			<string>iOSResultBundleAppUITests</string>
 			<key>TestCase</key>
 			<string>iOSResultBundleAppUITests.testFail()</string>
 		</dict>
-		<dict>
-			<key>DocumentLocationData</key>
-			<data>
-			YnBsaXN0MDDUAQIDBAUGIiNYJHZlcnNpb25YJG9iamVjdHNZJGFy
-			Y2hpdmVyVCR0b3ASAAGGoKQHCBkaVSRudWxs2gkKCwwNDg8QERIT
-			FBQVFRYXGBcUW2RvY3VtZW50VVJMXxAUc3RhcnRpbmdDb2x1bW5O
-			dW1iZXJfEBJlbmRpbmdDb2x1bW5OdW1iZXJfEBFjaGFyYWN0ZXJS
-			YW5nZUxlbl8QEGxvY2F0aW9uRW5jb2RpbmdWJGNsYXNzXxAQZW5k
-			aW5nTGluZU51bWJlcll0aW1lc3RhbXBfEBJzdGFydGluZ0xpbmVO
-			dW1iZXJfEBFjaGFyYWN0ZXJSYW5nZUxvY4ACE///////////EACA
-			AxAegABfEG1maWxlOi8vL1VzZXJzL3JkL3IvWGNvZGVSZXN1bHRC
-			dW5kbGUvaU9TUmVzdWx0QnVuZGxlQXBwL2lPU1Jlc3VsdEJ1bmRs
-			ZUFwcFRlc3RzL2lPU1Jlc3VsdEJ1bmRsZUFwcFRlc3RzLnN3aWZ0
-			0hscHR5aJGNsYXNzbmFtZVgkY2xhc3Nlc18QF0RWVFRleHREb2N1
-			bWVudExvY2F0aW9uox8gIV8QF0RWVFRleHREb2N1bWVudExvY2F0
-			aW9uXxATRFZURG9jdW1lbnRMb2NhdGlvblhOU09iamVjdF8QD05T
-			S2V5ZWRBcmNoaXZlctEkJVRyb290gAEACAARABoAIwAtADIANwA8
-			AEIAVwBjAHoAjwCjALYAvQDQANoA7wEDAQUBDgEQARIBFAEWAYYB
-			iwGWAZ8BuQG9AdcB7QH2AggCCwIQAAAAAAAAAgEAAAAAAAAAJgAA
-			AAAAAAAAAAAAAAAAAhI=
-			</data>
-			<key>IssueType</key>
-			<string>Uncategorized</string>
-			<key>Message</key>
-			<string>XCTAssertTrue failed - </string>
-			<key>TestCase</key>
-			<string>iOSResultBundleAppTests.testFail()</string>
-		</dict>
 	</array>
 	<key>TestSummaryPath</key>
-	<string>/Users/rd/r/XcodeResultBundle/.build/x86_64-apple-macosx10.10/debug/CleanAnalyzeTest.result/TestSummaries.plist</string>
+	<string>/Users/rd/r/XcodeResultBundle/iOSResultBundleApp/CleanAnalyzeTest.result/TestSummaries.plist</string>
 	<key>TestsCount</key>
 	<integer>5</integer>
 	<key>TestsFailedCount</key>

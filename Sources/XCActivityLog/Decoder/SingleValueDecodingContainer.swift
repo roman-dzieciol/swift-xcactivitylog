@@ -62,6 +62,7 @@ extension _SLFDecoder: SingleValueDecodingContainer {
     }
   
     internal func decode<T>(_ type: T.Type) throws -> T where T : Decodable {
+        print("decode \(type) \(data.index) \(self.codingPath.map{$0.stringValue})")
         switch type {
         case is NSRange.Type:
             return try data.decodeRange() as! T
