@@ -6,6 +6,7 @@
 //
 
 import Foundation
+import RDGZip
 
 final internal class _SLFDecoder {
 
@@ -38,37 +39,6 @@ extension _SLFDecoder: Decoder {
 extension SLFDecoder {
 
     func decompress(data: Data) throws -> Data {
-        let process = Process()
-        process.launchPath = "/usr/bin/env"
-        process.arguments = [
-            "gzip",
-            "--decompress",
-            "--verbose",
-            "--stdout"
-        ]
-
-        let standardInputPipe = Pipe()
-        standardInputPipe.fileHandleForWriting.writeabilityHandler = { handle in
-
-        }
-        process.standardInput = standardInputPipe
-
-        var standardOutputData = Data()
-        let standardOutputPipe = Pipe()
-        standardOutputPipe.fileHandleForReading.readabilityHandler = { handle in
-            standardOutputData.append(handle.readDataToEndOfFile())
-        }
-        process.standardOutput = standardOutputPipe
-
-        try process.run()
-
-        standardInputPipe.fileHandleForWriting.write(data)
-        standardInputPipe.fileHandleForWriting.closeFile()
-
-        process.waitUntilExit()
-        guard process.terminationStatus == EXIT_SUCCESS else {
-            fatalError("Error: \(process) \(process.terminationReason)")
-        }
-        return standardOutputData
+        return try GZipArchive(from: data).decompress()
     }
 }
