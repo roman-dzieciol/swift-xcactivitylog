@@ -1,6 +1,6 @@
 //
 //  SLFData.swift
-//  XCActivityLog
+//  SWXCActivityLog
 //
 //  Created by Roman Dzieciol on 3/19/19.
 //
@@ -103,7 +103,7 @@ extension SLFData {
                 className = String(className.dropFirst("DVT".count))
             }
 
-            guard let type = NSClassFromString("XCActivityLog." + className) else {
+            guard let type = NSClassFromString("SWXCActivityLog." + className) else {
                 fatalError()
             }
 

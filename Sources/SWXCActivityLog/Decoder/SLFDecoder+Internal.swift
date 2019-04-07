@@ -1,12 +1,12 @@
 //
 //  SLFDecoder+Internal.swift
-//  XCActivityLog
+//  SWXCActivityLog
 //
 //  Created by Roman Dzieciol on 3/27/19.
 //
 
 import Foundation
-import RDGZip
+import SWGZip
 
 final internal class _SLFDecoder {
 

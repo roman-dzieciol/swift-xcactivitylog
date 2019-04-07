@@ -1,13 +1,13 @@
 //
 //  ActivityLog.swift
-//  XCActivityLog
+//  SWXCActivityLog
 //
 //  Created by Roman Dzieciol on 3/24/19.
 //
 
 import Foundation
 
-/// XCActivityLog top level structure
+/// SWXCActivityLog top level structure
 public struct ActivityLog: Codable {
 
     public let magic: UInt32

@@ -2,12 +2,12 @@
   "object": {
     "pins": [
       {
-        "package": "RDGZip",
+        "package": "SWGZip",
         "repositoryURL": "https://github.com/roman-dzieciol/swift-gzip.git",
         "state": {
           "branch": null,
-          "revision": "e867bbeb64f7448f55dc37c2439c795b18a97a74",
-          "version": "0.1.0"
+          "revision": "6a3b7318300c5fa3b7b29d380262f2ef16002fb5",
+          "version": "1.0.0"
         }
       }
     ]

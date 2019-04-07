@@ -1,5 +1,5 @@
 import XCTest
-import XCActivityLog
+import SWXCActivityLog
 
 @available(OSX 10.13, *)
 final class XCActivityLogTests: XCTestCase {
