@@ -1,6 +1,6 @@
 import Foundation
 
-/// Decoder for XCActivityLog archives
+/// Decoder for SWXCActivityLog archives
 final public class SLFDecoder {
 
     public init() {

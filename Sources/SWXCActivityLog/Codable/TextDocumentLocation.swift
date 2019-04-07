@@ -1,6 +1,6 @@
 //
 //  TextDocumentLocation.swift
-//  XCActivityLog
+//  SWXCActivityLog
 //
 //  Created by Roman Dzieciol on 3/18/19.
 //

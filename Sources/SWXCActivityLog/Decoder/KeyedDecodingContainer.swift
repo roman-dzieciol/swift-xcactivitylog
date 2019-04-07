@@ -2,7 +2,7 @@ import Foundation
 
 extension _SLFDecoder {
 
-    /// The XCActivityLog archive is not keyed
+    /// The SWXCActivityLog archive is not keyed
     ///
     /// The automatically synthesized Codable conformance uses keyed containers
     /// Decodes properties in provided order, ignores keys
